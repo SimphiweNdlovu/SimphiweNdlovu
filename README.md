@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello World , I'm [Simphiwe](https://github.com/SimphiweNdlovu) 👋
 
-<!--
-**SimphiweNdlovu/SimphiweNdlovu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="profile.jpeg" alt="banner image" width="100%"><!-- Replace with your profile image URL -->
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I am a passionate Full Stack Developer with expertise in modern web technologies and a strong background in creating scalable and user-friendly applications. I have a minimalist approach to design and a keen eye for detail, ensuring a professional and polished user experience.
+
+With experience in both front-end and back-end development, I enjoy working on end-to-end solutions and collaborating with multidisciplinary teams to create innovative digital products. I thrive in dynamic environments, embracing challenges and continuously expanding my knowledge to stay up-to-date with the latest industry trends.
+
+## 💼 Tech stack
+
+- *Front-end*: HTML5, CSS3, JavaScript, React, Redux
+- *Back-end*: Node.js, Express.js, Python, Django
+- *Database*: MySQL, MongoDB
+- *Other*: Git, Docker, RESTful APIs
+
+## 📊 GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimphiweNdlovu&show_icons=true&count_private=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimphiweNdlovu&layout=compact&theme=dark)
+
+## 📫 Connect with Me
+Let's connect and shape the future together:
+
+
+
+<a href="https://www.twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/simphiwe-ndlovu-819b68163"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/simphiwe-ndlovu-819b68163"><img src="https://img.shields.io/badge/Profile-%630077c5.svg?&style=for-the-badge&logo=Profile&logoColor=white" height=25></a>
+
+
+Let's connect and collaborate on exciting projects!
