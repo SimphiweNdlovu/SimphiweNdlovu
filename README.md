@@ -26,7 +26,7 @@ Let's connect and shape the future together:
 
 
 
-<a href="https://www.twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+
 <a href="https://www.linkedin.com/in/simphiwe-ndlovu-819b68163"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/simphiwe-ndlovu-819b68163"><img src="https://img.shields.io/badge/Profile-%630077c5.svg?&style=for-the-badge&logo=Profile&logoColor=white" height=25></a>
 
