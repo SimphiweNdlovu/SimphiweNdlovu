@@ -1,4 +1,4 @@
-# Hello World , I'm [Simphiwe](https://github.com/SimphiweNdlovu) 👋
+# Hello World 👋
 
 <img src="profile.jpeg" alt="banner image" width="100%"><!-- Replace with your profile image URL -->
 
