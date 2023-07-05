@@ -10,10 +10,10 @@ With experience in both front-end and back-end development, I enjoy working on e
 
 ## 💼 Tech stack
 
-- *Front-end*: HTML5, CSS3, JavaScript, React, Redux
-- *Back-end*: Node.js, Express.js, Python, Django
-- *Database*: MySQL, MongoDB
-- *Other*: Git, Docker, RESTful APIs
+- *Front-end*: HTML5, CSS3, JavaScript,Flutter, React, Angular
+- *Back-end*: Node.js, Express.js, Python,C#,C++,Java,Django
+- *Database*: Microsoft SQL Server,Postgresql,MySQL, MongoDB
+- *Other*: Git,RESTful APIs ,Microservices
 
 ## 📊 GitHub Stats
 
